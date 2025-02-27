@@ -1,0 +1,24 @@
+Last login: Thu Feb 27 01:26:35 on ttys000
+owner@Owners-Air ~ % nano requirements.txt
+streamlit
+PyMuPDF
+fpdf
+pandas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
